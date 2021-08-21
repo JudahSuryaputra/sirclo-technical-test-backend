@@ -12,8 +12,8 @@ Created and initiated by @judahsuryaputra
 -   I provide the requests that I use to test my code through Insomnia named `sirclo-backend-requests-INSOMNIA`.
 
 -   Query that I use for this project.
--   ```
-    CREATE TABLE weights(
+    ```
+    CREATE TABLE weights (
         id SERIAL PRIMARY KEY,
         max int,
         min int,
